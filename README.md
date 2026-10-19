@@ -1,1 +1,1 @@
-# Rubika-Force-Join-Bot
+# Joins-Ejbari-Canal-Rubika

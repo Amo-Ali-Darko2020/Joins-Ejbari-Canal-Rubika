@@ -1,95 +1,62 @@
-⚡ جوین اجباری کانال روبیکا
+⛧ RUBIKA FORCE JOIN BOT
 
-RUBIKA FORCE JOIN BOT
+A powerful Force Join Bot for Rubika.
 
-پروژه‌ای برای مدیریت عضویت اجباری کاربران در کانال روبیکا، با راهنمای راه‌اندازی در محیط Termux.
+ساخته‌شده برای مدیریت عضویت اجباری کانال روبیکا، با نصب ساده و اجرای سریع در Termux.
 
 ---
 
-📌 فهرست مطالب
+"// FEATURES"
 
-- پیش‌نیازها
-- نصب ابزارها
-- دریافت پروژه
-- نصب کتابخانه‌ها
-- تنظیم ربات
-- اجرای ربات
-- رفع خطاها
-- سازنده
+- "01" — Force Join System
+- "02" — Easy Installation
+- "03" — Automatic Dependency Setup
+- "04" — Termux Support
+- "05" — Simple Launch Commands
 
-01 | پیش‌نیازها
+"// INSTALLATION"
 
-قبل از شروع، موارد زیر را آماده کنید:
+STEP 01 — نصب ابزارها
 
-- گوشی اندرویدی
-- برنامه Termux
-- اتصال اینترنت
-- دسترسی به مخزن GitHub
-- تنظیمات لازم برای اجرای ربات
+pkg update -y
+pkg install git python -y
 
-02 | نصب ابزارهای اولیه
-
-Termux را باز کنید و دستورها را به‌ترتیب اجرا کنید.
-
-به‌روزرسانی بسته‌ها:
-
-pkg update && pkg upgrade -y
-
-نصب Python و Git:
-
-pkg install python git -y
-
-03 | دریافت پروژه
-
-دستور زیر را اجرا کنید:
+STEP 02 — دریافت سورس
 
 git clone https://github.com/Amo-Ali-Darko2020/Joins-Ejbari-Canal-Rubika.git
 
-سپس وارد پوشهٔ پروژه شوید:
+STEP 03 — ورود به پروژه
 
 cd Joins-Ejbari-Canal-Rubika
 
-«اگر مخزن خصوصی است، ابتدا باید با حساب GitHub خود دسترسی لازم را داشته باشید.»
+STEP 04 — نصب خودکار
 
-04 | نصب کتابخانه‌ها
+bash install.sh
 
-برای نصب وابستگی‌های ثبت‌شده در پروژه:
-
-python -m pip install -r requirements.txt
-
-05 | تنظیم ربات
-
-فایل "bot.py" را بررسی کنید و تنظیمات لازم را مطابق راهنمای پروژه تکمیل کنید.
-
-اطلاعات ورود، توکن‌ها و کلیدهای خصوصی را در مخزن منتشر نکنید.
-
-06 | اجرای ربات
-
-پس از نصب وابستگی‌ها و تکمیل تنظیمات:
+STEP 05 — اجرای ربات
 
 bash run.sh
 
-📂 ساختار پروژه
-
-فایل| توضیحات
-"bot.py"| فایل اصلی ربات
-"install.sh"| اسکریپت نصب
-"requirements.txt"| فهرست وابستگی‌ها
-"run.sh"| اسکریپت اجرا
-"README.md"| راهنمای پروژه
-
-🧰 رفع خطاهای رایج
-
-خطای نصب کتابخانه: اتصال اینترنت و نام بسته‌ها را بررسی کنید.
-
-خطای دریافت پروژه: دسترسی حساب GitHub و آدرس مخزن را بررسی کنید.
-
-خطای اجرا: تنظیمات "bot.py" و نصب وابستگی‌ها را بررسی کنید.
-
 ---
 
-👑 سازنده
+"// RESTART"
 
-سازنده: Amo Ali Darko
+برای اجرای دوباره ربات:
 
-PROJECT BY: AMO ALI DARKO
+cd Joins-Ejbari-Canal-Rubika
+bash run.sh
+
+"// REQUIREMENTS"
+
+- Android
+- Termux
+- Internet Connection
+
+"// DEVELOPER"
+
+AMO ALI DARKO
+
+"GitHub Repository" (https://github.com/Amo-Ali-Darko2020/Joins-Ejbari-Canal-Rubika)
+
+ACCESS GRANTED.
+SYSTEM READY.

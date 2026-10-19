@@ -1,4 +1,4 @@
-# ⛧ RUBIKA FORCE JOIN BOT
+### ⛧ RUBIKA FORCE JOIN BOT
 
 A powerful Force Join Bot for Rubika.
 

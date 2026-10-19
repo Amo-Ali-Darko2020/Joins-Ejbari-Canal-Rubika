@@ -18,24 +18,24 @@ A powerful Force Join Bot for Rubika.
 
 STEP 01 — نصب ابزارها
 
-## pkg update -y
-## pkg install git python -y
+#### pkg update -y
+#### pkg install git python -y
 
 STEP 02 — دریافت سورس
 
- git clone https://github.com/Amo-Ali-Darko2020/Joins-Ejbari-Canal-Rubika.git
+#### git clone https://github.com/Amo-Ali-Darko2020/Joins-Ejbari-Canal-Rubika.git
 
 STEP 03 — ورود به پروژه
 
-## cd Joins-Ejbari-Canal-Rubika
+#### cd Joins-Ejbari-Canal-Rubika
 
 STEP 04 — نصب خودکار
 
-## bash install.sh
+#### bash install.sh
 
 STEP 05 — اجرای ربات
 
-## bash run.sh
+#### bash run.sh
 
 ---
 
@@ -43,7 +43,7 @@ STEP 05 — اجرای ربات
 
 برای اجرای دوباره ربات:
 
- ## cd Joins-Ejbari-Canal-Rubika
+ #### cd Joins-Ejbari-Canal-Rubika
 bash run.sh
 
 "// REQUIREMENTS"

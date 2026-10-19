@@ -43,8 +43,8 @@ STEP 05 — اجرای ربات
 
 برای اجرای دوباره ربات:
 
- ###### cd Joins-Ejbari-Canal-Rubika
-bash run.sh
+###### cd Joins-Ejbari-Canal-Rubika
+###### bash run.sh
 
 "// REQUIREMENTS"
 
